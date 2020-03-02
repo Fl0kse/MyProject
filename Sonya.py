@@ -45,8 +45,8 @@ class MainUI(QtWidgets.QMainWindow):
 #     from base64 import b64decode as b64d
 #
 #     _cpau_binary = r'\\buka_srv\tools\mayaTools\site-packages\cpau'
-#     _user = 'QlVLQS5tc2tcQUtvemxvdg=='
-#     _pwd = 'eVhFQ1Z5THg='
+#     _user = '***'
+#     _pwd = '***'
 #     cmd = [_cpau_binary, '-u', b64d(_user), '-p', b64d(_pwd), '-ex', command, '-nowarn', '-c', '-hide', '-wait', '-outprocexit']  #'-hide', '-wait', '-outprocexit']
 #
 #     # print(cmd)
